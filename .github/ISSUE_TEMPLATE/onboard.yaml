@@ -3,7 +3,6 @@ description: Get new hire setup with the basics.
 title: "[Onboarding]: "
 labels: ["access request", "onboarding"]
 projects: ["ccasey/veryprobably"]
-  - ccasey
 body:
   - type: markdown
     attributes:
