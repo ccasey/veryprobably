@@ -1,6 +1,6 @@
 name: Onboarding
 description: Get new hire setup with the basics.
-title: "[Onboarding]: "
+title: "[Onboarding]: <employee-name>"
 labels: ["access request", "onboarding"]
 projects: ["ccasey/veryprobably"]
 body:
