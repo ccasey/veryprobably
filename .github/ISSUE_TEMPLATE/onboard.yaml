@@ -13,7 +13,7 @@ body:
     id: contact
     attributes:
       label: Name of person being onboarded.
-      placeholder: First Last
+      placeholder: ex: John Doe
     validations:
       required: true
   - type: input
