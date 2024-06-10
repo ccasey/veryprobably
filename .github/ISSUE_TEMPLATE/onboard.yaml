@@ -12,7 +12,8 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Name 
+      label: Name of person being onboarded.
+      placeholder: First Last
     validations:
       required: true
   - type: input
