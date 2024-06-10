@@ -37,15 +37,13 @@ body:
         - label: Google Workspace
         - label: Slack
         - label: GitHub
-  - type: textarea
-    id: what-happened
+  - type: input
+    id: github-username
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Github Username
+      description: If GitHub access is needed, please provide their GitHub username.
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: version
     attributes:
