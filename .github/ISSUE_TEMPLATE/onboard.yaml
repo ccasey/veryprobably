@@ -5,7 +5,6 @@ labels: ["access request", "onboarding"]
 projects: ["DryRunSec/Main"]
 assignees:
   - ccasey
-  - cktricky
 body:
   - type: markdown
     attributes:
