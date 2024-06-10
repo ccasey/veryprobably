@@ -27,7 +27,7 @@ body:
     id: manager
     attributes:
       label: Supervisor
-      description: Supervisor or the person being onboarded. Approval will be needed before access is granted.
+      description: Supervisor or the person being onboarded. Approval comment to this issue will be needed before access is granted.
     validations:
       required: true
   - type: checkboxes
