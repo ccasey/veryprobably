@@ -1,4 +1,4 @@
-name: Onboarding
+name: IT Onboarding
 description: Get new hire setup with the basics.
 title: "[Onboarding]: <employee-name>"
 labels: ["access request", "onboarding"]
@@ -34,7 +34,7 @@ body:
     id: access
     attributes:
       label: Access
-      description: What access do you need?
+      description: What access do you need? (Request anything else in the comments section or in a generic access request issue.)
       options:
         - label: Google Workspace
         - label: Slack
