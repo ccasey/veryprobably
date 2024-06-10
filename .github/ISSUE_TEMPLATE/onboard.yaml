@@ -3,6 +3,8 @@ description: Get new hire setup with the IT basics.
 title: "[Onboarding]: <employee-name>"
 labels: ["access request", "onboarding"]
 projects: ["DryRunSec/Main"]
+assignees:
+  - ccasey
 body:
   - type: markdown
     attributes:
