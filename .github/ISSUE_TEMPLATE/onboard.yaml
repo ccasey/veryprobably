@@ -38,6 +38,7 @@ body:
       options:
         - label: Google Workspace
         - label: Slack
+        - label: Notion
         - label: GitHub
   - type: input
     id: github-username
