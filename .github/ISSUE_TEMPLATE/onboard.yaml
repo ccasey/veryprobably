@@ -23,6 +23,13 @@ body:
       description: We will use this to send and invite to Google Workspace.
     validations:
       required: true
+  - type: input
+    id: manager
+    attributes:
+      label: Supervisor
+      description: Supervisor or the person being onboarded.
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
