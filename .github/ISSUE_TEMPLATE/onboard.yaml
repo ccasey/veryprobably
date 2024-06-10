@@ -19,7 +19,8 @@ body:
   - type: input
     id: email
     attributes:
-      label: Email
+      label: Personal Email
+      description: We will use this to send and invite to Google Workspace.
     validations:
       required: true
   - type: textarea
