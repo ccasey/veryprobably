@@ -1,8 +1,8 @@
 name: IT Onboarding
-description: Get new hire setup with the basics.
+description: Get new hire setup with the IT basics.
 title: "[Onboarding]: <employee-name>"
 labels: ["access request", "onboarding"]
-projects: ["ccasey/veryprobably"]
+projects: ["DryRunSec/Main"]
 body:
   - type: markdown
     attributes:
