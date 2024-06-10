@@ -2,8 +2,7 @@ name: Onboarding
 description: Get new hire setup with the basics.
 title: "[Onboarding]: "
 labels: ["access request", "onboarding"]
-#projects: ["m/main", "octo-org/44"]
-assignees:
+projects: ["ccasey/veryprobably"]
   - ccasey
 body:
   - type: markdown
@@ -30,6 +29,15 @@ body:
       description: Supervisor or the person being onboarded.
     validations:
       required: true
+  - type: checkboxes
+    id: access
+    attributes:
+      label: Access
+      description: What access do you need?
+      options:
+        - label: Google Workspace
+        - label: Slack
+        - label: GitHub
   - type: textarea
     id: what-happened
     attributes:
